@@ -2,14 +2,105 @@
   <component name="VimSettings">
     <state version="4" enabled="false" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Workspace/Idea/ltpf/intro.tex" timestamp="1531777221412">
+        <mark key="'" line="35" column="289" />
+        <mark key="[" line="35" column="624" />
+        <mark key="]" line="35" column="624" />
+        <mark key="." line="35" column="624" />
+        <mark key="^" line="35" column="295" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Idea/ltpf/section/methodology_epf_long_run.tex" timestamp="1531774714155" />
+      <file name="$USER_HOME$/Workspace/Idea/ltpf/main.tex" timestamp="1531755023594">
+        <mark key="'" line="66" column="97" />
+        <mark key="[" line="73" column="11" />
+        <mark key="]" line="73" column="11" />
+        <mark key="^" line="63" column="40" />
+        <mark key="." line="73" column="11" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Idea/excursions-guidelines/main.md" timestamp="1531515053228">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="17" column="96" />
+        <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Idea/ltpf/main.bib" timestamp="1531777185347">
+        <mark key="'" line="77" column="47" />
+        <mark key="[" line="76" column="14" />
+        <mark key="]" line="76" column="13" />
+        <mark key="." line="76" column="13" />
+        <mark key="^" line="76" column="13" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="68" column="24" filename="$USER_HOME$/Workspace/Idea/ltpf/main.tex" />
+      <jump line="63" column="40" filename="$USER_HOME$/Workspace/Idea/ltpf/main.tex" />
+      <jump line="66" column="97" filename="$USER_HOME$/Workspace/Idea/ltpf/main.tex" />
+      <jump line="50" column="431" filename="$USER_HOME$/Workspace/Idea/ltpf/intro.tex" />
+      <jump line="74" column="0" filename="$USER_HOME$/Workspace/Idea/ltpf/main.bib" />
+      <jump line="77" column="47" filename="$USER_HOME$/Workspace/Idea/ltpf/main.bib" />
+      <jump line="35" column="289" filename="$USER_HOME$/Workspace/Idea/ltpf/intro.tex" />
+    </jumps>
+    <registers>
+      <register name="0" type="4">
+        <text encoding="base64">QGFydGljbGV7bWFydGluZXpfcHJlZGljY2lvbl9wcmVjaW9zX2NvbnRyYXRvc19lbGVjdHJpY2lkYWRfZ3BfYmYsCiAgICBhdXRob3IgPSB7TWFydMOtbmV6LCBDYXJsb3MgQS4gYW5kIFZlbMOhc3F1ZXosIEp1YW4gRH0sCiAgICB0aXRsZSA9IHtQcmVkaWNjacOzbiBkZSBsb3MgcHJlY2lvcyBkZSBjb250cmF0b3MgZGUgZWxlY3RyaWNpZGFkCnVzYW5kbyBwcm9ncmFtYWNpw7NuIGdlbsOpdGljYSBjb24gYmxvcXVlcyBmdW5jaW9uYWxlc30sCiAgICBqb3VybmFsdGl0bGUgPSB7UmV2aXN0YSBJbmdlbmllcsOtYXMgVW5pdmVyc2lkYWQgZGUgTWVkZWxsw61ufSwKICAgIGRhdGUgPSB7MjAxM30sCn0K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">WzVdIOKAnFN0b2NoYXN0aWMgZmFjdG9yIG1vZGVsIGZvciBlbGVjdHJpY2l0eSBzcG90IHByaWNl4oCUdGhlIGNhc2Ugb2YgdGhlIE5vcmRpYyBtYXJrZXTigJ0sIElpdm8gVmVodmlsw6RpbmVuIGFuZCBUdW9tYXMgUHl5a2vDtm5lbiwgMjAwNQo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CgpAYXJ0aWNsZXtiYXRsbGVfc3RyYXRlZ2ljX3BjbSwKICAgIGF1dGhvciA9IHtCYXRsbGUsIENhcmxvcyBhbmQgQmFycXXDrW4sIEp1bGnDoW59LAogICAgdGl0bGUgPSB7QSBTdHJhdGVnaWMgUHJvZHVjdGlvbiBDb3N0aW5nIE1vZGVsIGZvciBFbGVjdHJpY2l0eSBNYXJrZXQgUHJpY2UgQW5hbHlzaXN9LAogICAgZGF0ZSA9IHsyMDA1fSwKfQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QGFydGljbGV7LAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGpvdXJuYWx0aXRsZSA9IHtSZXZpc3RhIEluZ2VuZGRpZXLDrWFzIFVuaXZlcnNpZGFkIGRlIE1lZGVsbMOtbn0sCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">XGF1dGhvclsxXXtBdXRob3IgQX0K</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ClxhdXRob3JbMV17QXV0aG9yIEN9ClxhdXRob3JbMl17QXV0aG9yIER9ClxhdXRob3JbMl17QXV0aG9yIEV9</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>modelaron</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>modelaron</last-search>
+      <last-offset />
+      <last-pattern>modelaron</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>state</entry>
+        <entry>[1]</entry>
+        <entry>weron</entry>
+        <entry>modelaron</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>

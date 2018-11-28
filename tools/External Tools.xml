@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="arara" description="eX automation tool based on rules and directives. It gives you a way to enhance your TeX experience." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="arara" />
+      <option name="PARAMETERS" value="-v main.tex" />
+      <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
+    </exec>
+  </tool>
+</toolSet>
