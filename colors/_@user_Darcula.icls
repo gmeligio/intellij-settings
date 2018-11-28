@@ -4,11 +4,14 @@
     <property name="created">2018-11-28T10:45:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-11-28T13:07:00</property>
+    <property name="modified">2018-11-28T13:17:29</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <colors>
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+  </colors>
 </scheme>
