@@ -1,0 +1,9 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="KOTLIN_BUNDLED" value="C:\Users\Eligio\scoop\apps\jetbrains-toolbox\current\apps\IDEA-U\ch-0\183.4284.148\plugins\Kotlin\kotlinc" />
+    <ignoredMacro name="MESSAGE" />
+    <ignoredMacro name="FILE_PATH" />
+    <ignoredMacro name="LINE" />
+    <ignoredMacro name="COLUMN" />
+  </component>
+</application>
