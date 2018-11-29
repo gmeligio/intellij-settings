@@ -2,7 +2,7 @@
   <component name="ApplicationTasksOptions">
     <global-watchers>
       <TaskOptions>
-        <option name="arguments" value="" />
+        <option name="arguments" value="--headererr $FilePath$" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
         <option name="exitCodeBehavior" value="ERROR" />
@@ -18,7 +18,7 @@
         <option name="runOnExternalChanges" value="true" />
         <option name="scopeName" value="Project Files" />
         <option name="trackOnlyRoot" value="true" />
-        <option name="workingDir" value="" />
+        <option name="workingDir" value="$FileDir$" />
         <envs />
       </TaskOptions>
       <TaskOptions>
