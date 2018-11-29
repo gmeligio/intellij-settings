@@ -1,36 +1,12 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
-      <Statistic Action="Declaration">
+      <Statistic Action="Hide All Windows">
         <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
-          <Description>Declaration</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="New Folder...">
-        <Item>
-          <IdeaActionID>FileChooser.NewFolder</IdeaActionID>
-          <ShortCut>'Alt+Insert' or 'Ctrl+N'</ShortCut>
-          <Description>New Folder...</Description>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Hide All Windows</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Project">
-        <Item>
-          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
-          <ShortCut>'Alt+1'</ShortCut>
-          <Description>Project</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run">
-        <Item>
-          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
-          <ShortCut>'Alt+4'</ShortCut>
-          <Description>Run</Description>
-          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -41,20 +17,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Synchronize">
+      <Statistic Action="Version Control">
         <Item>
-          <IdeaActionID>Synchronize</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
-          <Description>Synchronize</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Terminal">
-        <Item>
-          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
-          <ShortCut>'Alt+F12'</ShortCut>
-          <Description>Terminal</Description>
-          <Count>7</Count>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
