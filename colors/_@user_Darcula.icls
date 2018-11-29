@@ -1,10 +1,10 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-11-28T16:50:00</property>
-    <property name="ide">idea</property>
+    <property name="created">2018-11-28T10:45:51</property>
+    <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-11-29T09:12:36</property>
+    <property name="modified">2018-11-29T10:49:56</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -12,7 +12,6 @@
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
-    <option name="FILESTATUS_COPIED" value="c3e88d" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
   </colors>
 </scheme>
