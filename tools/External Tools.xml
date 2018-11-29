@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
-  <tool name="arara" description="eX automation tool based on rules and directives. It gives you a way to enhance your TeX experience." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="Arara" description="LaTeX automation" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="arara" />
-      <option name="PARAMETERS" value="-v main.tex" />
-      <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
+      <option name="PARAMETERS" value="--verbose main" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/src" />
     </exec>
   </tool>
 </toolSet>
